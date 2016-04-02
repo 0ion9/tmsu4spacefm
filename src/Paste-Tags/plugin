@@ -1,0 +1,17 @@
+# SpaceFM Plugin File
+
+# THIS FILE IS NOT DESIGNED TO BE EDITED
+
+[Plugin]
+config_version-s=37
+cstm_6b46fb18-x=1
+cstm_6b46fb18-y=
+cstm_6b46fb18-key=176
+cstm_6b46fb18-keymod=1
+cstm_6b46fb18-label=Paste _Tags
+cstm_6b46fb18-task=1
+cstm_6b46fb18-task_pop=1
+cstm_6b46fb18-task_err=1
+cstm_6b46fb18-task_out=1
+cstm_6b46fb18-keep=1
+
